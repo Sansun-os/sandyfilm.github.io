@@ -51,3 +51,11 @@ var swiper = new Swiper(".coming-container", {
     },
   },
 });
+
+swal({
+  title: "Hallo ges 🥰 ",
+
+  text: "Web ini masi tahap awal jika ada kekurangan harap maklum ya!",
+
+  button: true,
+});
