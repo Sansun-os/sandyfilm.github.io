@@ -227,6 +227,9 @@ header.shadow .logo {
 .coming-container .box-img img:hover {
   transform: translateY(0);
 }
+.coming-container .box-img img {
+  object-fit: cover;
+}
 .coming-container .box {
   width: 100px;
 }
